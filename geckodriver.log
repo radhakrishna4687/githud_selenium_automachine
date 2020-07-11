@@ -1,0 +1,22 @@
+1594492143902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zq/76dzpdp93p5d9_67mq1dh4hc0000gn/T/rust_mozprofile.XQVXLNI0OZC0"
+1594492150246	Marionette	INFO	Listening on port 51350
+1594492150304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594493944763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zq/76dzpdp93p5d9_67mq1dh4hc0000gn/T/rust_mozprofile.RFtbR7VYGWe1"
+1594493948752	Marionette	INFO	Listening on port 56881
+1594493948834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594494054515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zq/76dzpdp93p5d9_67mq1dh4hc0000gn/T/rust_mozprofile.PJV6RsW8rPQx"
+1594494058111	Marionette	INFO	Listening on port 57571
+1594494058236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594494074736	Marionette	INFO	Stopped listening on port 57571
+1594494078293	Marionette	INFO	Stopped listening on port 56881
+1594494208338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zq/76dzpdp93p5d9_67mq1dh4hc0000gn/T/rust_mozprofile.IZ899rb0mPud"
+1594494212528	Marionette	INFO	Listening on port 58063
+1594494212546	Marionette	WARN	TLS certificate errors will be ignored for this session
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+1594494926504	Marionette	INFO	Stopped listening on port 58063
