@@ -20,3 +20,7 @@ emit@resource://devtools/shared/event-emitter.js:324:18
 getMutations@resource://devtools/client/fronts/walker.js:395:10
 
 1594494926504	Marionette	INFO	Stopped listening on port 58063
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
