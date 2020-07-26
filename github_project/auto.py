@@ -1,5 +1,5 @@
-password = "Radha@4687"
-username = "radhakrishna4687"
+password = ""
+username = ""
   
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
